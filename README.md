@@ -16,7 +16,7 @@ Tensorflow implementation of CNN on fashion-mnist classification.
 2. Run the .py script!
 ```
 cd fashion-mnist-cnn
-python fashion-mnist-cnn.py
+python fashion_mnist_cnn.py
 ```
 ## Training
 - In fashion-mnist-cnn.py, change mode = False (line 15), then do the Training, and the model will be saved into model folder.
